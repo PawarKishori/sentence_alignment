@@ -1,3 +1,5 @@
+#CODE WRITTEN BY: Tanushree Bakshi (nagpur intern SVPCET) IT 2019 batch
+
 #Make Directories
 mkdir ArrowFiles_$1
 mkdir AlignedFiles_$1

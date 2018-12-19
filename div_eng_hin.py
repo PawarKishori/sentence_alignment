@@ -1,3 +1,5 @@
+#CODE WRITTEN BY: Tanushree Bakshi (nagpur intern SVPCET) IT 2019 batch
+
 #command: python div_eng_hin.py <champollion_output_file> <english_file> <hindi_file> <count_as_a_number(naming purpose[IMP])>
 
 import os, sys

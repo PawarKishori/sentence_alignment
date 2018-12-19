@@ -1,4 +1,6 @@
-#bash run_indiv_adhyay.sh
+#CODE WRITTEN BY: Tanushree Bakshi (nagpur intern SVPCET) IT 2019 batch
+
+#command: bash run_indiv_adhyay.sh
 
 for i in `seq 1 18`;
 do
