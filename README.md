@@ -19,6 +19,7 @@
 7. pre-processing of data: 
 	-find all ";" and replace with "@" in each input file
 [this is because the tool introduces its own ";" while aligning and original ";" may be lost at the end]
+	-make sure english_1... files and hindi_1... files DOES NOT contain any "\n and space" i.e an empty line with a space or tab
 
 8. run code:
 		bash run_indiv_adhyay.sh
