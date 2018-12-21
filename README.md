@@ -114,7 +114,10 @@ etc...
 
 3. run command: bash reverse_replace.sh <aligned_file>
 
-4. <aligned_file> is your final output file.
+4. open the file: do ctrl+h and replace "\n ; " with " ; "
+[Coding not present inside reverse_replce.sh (cannot operate)]
+
+5. <aligned_file> is your final output file.
 
 [The tool introduces its own ";" while aligning and original ";" may be lost at the end]
 
